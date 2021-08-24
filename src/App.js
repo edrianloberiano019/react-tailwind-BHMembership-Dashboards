@@ -3,7 +3,7 @@ import React from "react"
 function App() {
     return (
         <div className="App">
-            <div className="text-black text-9xl bg-rose-700">zxc</div>
+            <div className="text-black bg-gray-700 text-9xl ">zxc</div>
         </div>
     )
 }

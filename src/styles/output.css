@@ -582,11 +582,6 @@ video {
   display: none;
 }
 
-.bg-black {
-  --tw-bg-opacity: 1;
-  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
-}
-
 .bg-rose-700 {
   --tw-bg-opacity: 1;
   background-color: rgba(190, 18, 60, var(--tw-bg-opacity));
@@ -600,9 +595,4 @@ video {
 .text-black {
   --tw-text-opacity: 1;
   color: rgba(0, 0, 0, var(--tw-text-opacity));
-}
-
-.text-rose-700 {
-  --tw-text-opacity: 1;
-  color: rgba(190, 18, 60, var(--tw-text-opacity));
 }
